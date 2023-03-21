@@ -1,1 +1,1 @@
-# calculator-respoosive
+# calculator-responsive
