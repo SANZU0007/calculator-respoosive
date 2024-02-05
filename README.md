@@ -14,4 +14,4 @@ A basic calculator application for performing simple arithmetic operations.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   https://github.com/SANZU0007/calculator-respoosive.git
